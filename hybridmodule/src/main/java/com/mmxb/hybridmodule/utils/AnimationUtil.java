@@ -15,7 +15,6 @@ import android.widget.ProgressBar;
 
 public class AnimationUtil {
 
-
     /**
      * progressBar 加载动画
      */
@@ -42,7 +41,5 @@ public class AnimationUtil {
                 progressBar.setVisibility(View.GONE);
             }
         });
-
-
     }
 }
